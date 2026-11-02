@@ -1,9 +1,6 @@
-# MarkDown
-Bien sûr ! Voici un cours complet sur **Markdown**, un langage de balisage léger et intuitif utilisé pour créer du texte formaté.
+# Markdown — fiche de révision
 
----
-
-# 📝 **Cours de Markdown**
+Support d'apprentissage pour rédiger des documents et des README sur GitHub.
 
 Markdown est très utilisé pour écrire de la documentation, des blogs, des fichiers README (comme dans GitHub), etc.
 
